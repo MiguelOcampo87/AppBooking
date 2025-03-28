@@ -1,0 +1,6 @@
+@Sygno.Booking.Api_HostAddress = http://localhost:5286
+
+GET {{Sygno.Booking.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
